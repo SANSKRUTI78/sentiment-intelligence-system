@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Sentiment Analysis Tool
 
 ## 📌 Overview
@@ -100,3 +101,7 @@ This project demonstrates:
 ## 📜 License
 
 This project is open-source and available under the MIT License.
+=======
+# sentiment-intelligence-system
+The sentiment-intelligence-system is the project based on the Data Analyst 
+>>>>>>> 5e79cf9888fecc2a36b2e3b40ade2fda9e6b9543
